@@ -1,8 +1,6 @@
 #include <math.h>
 #include <Servo.h>
 
-//6점짜리
-
 /////////////////////////////
 // Configurable parameters //
 /////////////////////////////
